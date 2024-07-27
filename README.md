@@ -34,8 +34,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/document-based-chatbot.git
-    cd document-based-chatbot
+    git clone https://github.com/karlbernaldez/Eazeye-AI
+    cd Eazeye-AI
     ```
 
 2. Create a virtual environment and activate it:
